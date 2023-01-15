@@ -1,0 +1,17 @@
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\bin\Release\Projekt.exe.config
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\bin\Release\Projekt.exe
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\bin\Release\Projekt.pdb
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.csproj.AssemblyReference.cache
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\MainWindow.g.cs
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\App.g.cs
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt_Content.g.cs
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt_MarkupCompile.cache
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt_MarkupCompile.lref
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\MainWindow.baml
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.g.resources
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.Properties.Resources.resources
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.csproj.GenerateResource.cache
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.exe
+C:\Users\Joaci\Documents\Skolarbete\DT071G Programmering i C# .NET\Projekt\Projekt\Projekt\obj\Release\Projekt.pdb
